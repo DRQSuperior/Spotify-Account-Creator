@@ -40,5 +40,5 @@ Install Required Packages With python
 
 ## Extra
 
-- It is illegal to sell this tool.
+- It is prohibited to sell this tool.
 - Do not steal this tool and claim it as your own.
