@@ -5,7 +5,7 @@
 - 10 Stars/15 Followers = Proxies
 - 50 Stars/30 Followers = Follow a Artist
 - 100 Stars/50 Followers = Account Manager (manage all accounts ex:delete all accounts)
-- 
+
 ## Features
 
 - Legit Email Generation
