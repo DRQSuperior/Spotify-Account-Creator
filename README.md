@@ -9,8 +9,9 @@
 
 ## Acknowledgements
 
- - [No Proxies So Rate Limites]()
+ - [No Proxies So Rate Limits]()
  - [Not The Fastest :()]()
+
 ## Authors
 
 - [@DRQSuperior](https://www.github.com/drqsuperior)
