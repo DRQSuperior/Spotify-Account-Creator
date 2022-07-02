@@ -32,3 +32,7 @@ Install Required Packages With python
 
 ![App Screenshot](https://media.discordapp.net/attachments/938929953687367730/992688853464920135/unknown.png)
 
+## Extra
+
+- It is illegal to sell this tool.
+- Do not steal this tool and claim it as your own.
